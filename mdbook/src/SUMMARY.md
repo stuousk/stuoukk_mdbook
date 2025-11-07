@@ -1,4 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
-- [Chapter 2](./chapter_2.md)
+- [2025](./2025/2025.md)
+  - [2025-11-07 (금)](./2025/2025-11-07.md)

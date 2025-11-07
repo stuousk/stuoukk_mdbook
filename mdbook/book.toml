@@ -3,3 +3,6 @@ authors = ["stuousk"]
 language = "en"
 src = "src"
 title = "stuoukk"
+
+[output.html]
+no-section-label = true
